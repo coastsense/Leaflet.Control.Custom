@@ -1,0 +1,9 @@
+{
+    "name": "leaflet.control.custom",
+    "version": "1.0.1",
+    "description": "A Customizable Leaflet Control Panel",
+    "main": "Leaflet.Control.Custom.js",
+    "author": "Terence Ng",
+    "license": "MIT",
+    "repository":"github:coastsense/Leaflet.Control.Custom"
+  }
